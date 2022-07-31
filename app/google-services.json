@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "461143857758",
+    "firebase_url": "https://busgps-2ad7b.firebaseio.com",
+    "project_id": "busgps-2ad7b",
+    "storage_bucket": "busgps-2ad7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461143857758:android:77d850bc3282053d65b2cf",
+        "android_client_info": {
+          "package_name": "com.example.gps_bus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461143857758-gr2r8543u4lpijm0qti8qacj92e9ce7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gps_bus",
+            "certificate_hash": "c9ffbe78a11fd97fd9c056e047c96eec4dbfa37f"
+          }
+        },
+        {
+          "client_id": "461143857758-392l17i2bf63fhifmkqj70076lhf5ffj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt37dei3VUr0N5jl3nNJmDHuaYCNDpdjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461143857758-392l17i2bf63fhifmkqj70076lhf5ffj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

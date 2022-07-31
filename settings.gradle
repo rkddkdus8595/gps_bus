@@ -1,0 +1,2 @@
+rootProject.name='GPS_bus'
+include ':app'
